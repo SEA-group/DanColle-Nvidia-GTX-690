@@ -1,10 +1,10 @@
-﻿# [HE only] NVIDIA GTX690 / 690战术核显卡
+﻿# 690 Tactical Nuclear Graphic Card / 690战术核显卡
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-GTX690?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-GTX690)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-GTX690)
 
-HE shell model modification
+Shell model modification
 
 ## Installation
 * **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
